@@ -1,0 +1,5 @@
+Tarefa 1: Estudar C - Prioridade: Alta - Status: Pendente
+Descrição: Ler sobre strings e funções
+
+Tarefa 2: Entregar trabalho - Prioridade: Média - Status: Concluído
+Descrição: Subir código no GitHub
